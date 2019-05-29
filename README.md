@@ -1,6 +1,14 @@
 ## NadaJS
 ### A Library that does nothing in or for your project
 
+[![nadaJS version](https://img.shields.io/badge/dynamic/json.svg?label=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilicakes%2Fnada-js%2Fmaster%2Fpackage.json&query=version)](https://www.npmjs.com/package/nada-js)
+[![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://www.npmjs.com/package/nada-js)
+
+[![Typescript version](https://img.shields.io/badge/Typescript-3.5.1-blue.svg)](https://www.npmjs.com/package/nada-js)
+[![npm Version](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/nada-js)
+[![build: passing](https://img.shields.io/badge/'build'-passing-brightgreen.svg)](https://www.npmjs.com/package/nada-js)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
 ### Motivation
 In the ever-expanding world of javascript - many libraries, frameworks and tools are constantly created and recreated.
 Most of these technologies promise to solve all sorts of problems and try their best to deliver.
