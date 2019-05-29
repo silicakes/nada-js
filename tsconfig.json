@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["esnext", "dom"],
+    "outDir": "./dist",
+    "module": "commonjs",
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "declaration": true
+  },
+    "exclude": [
+        "node_modules",
+        "spec/**/*"
+    ]
+}
