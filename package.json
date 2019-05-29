@@ -12,7 +12,7 @@
   "scripts": {
     "test": "jest",
     "build": "tsc",
-    "prepublishOnly": "test && build"
+    "prepublishOnly": "yarn test && yarn build"
 
   },
   "keywords": [],
