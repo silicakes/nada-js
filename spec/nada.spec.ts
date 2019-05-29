@@ -1,5 +1,5 @@
 import nada from '../src';
-import fib from './utils';
+import { fib } from './utils';
 
 test('it should contain nothing', () => {
   expect(Object.keys(nada).length).toBe(0);
