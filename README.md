@@ -10,6 +10,10 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 ### Motivation
+Part satire and part thought experiment - I've made a library that aims to do nothing.
+For the time being, one might argue that it does something and it seems that the concept of nothing is elusive as anything else.
+
+### Introduction
 In the ever-expanding world of javascript - many libraries, frameworks and tools are constantly created and recreated.
 Most of these technologies promise to solve all sorts of problems and try their best to deliver.
 Whenever they fail, competing solutions are made up.
