@@ -11,7 +11,7 @@
 
 ### Motivation
 Part satire and part thought experiment - I've made a library that aims to do nothing.
-For the time being, one might argue that it does something and it seems that the concept of nothing is elusive as anything else.
+For the time being, one might argue that it does something and it seems that the concept of nothing is as elusive as anything else.
 
 ### Introduction
 In the ever-expanding world of javascript - many libraries, frameworks and tools are constantly created and recreated.
